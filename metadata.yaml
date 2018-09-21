@@ -1,16 +1,21 @@
 _repo: The-Clergy-And-The-Pulpit-In-Their-Relations-To-The-People_54246
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Badger, George Percy
     gutenberg_agent_id: '47784'
     url: http://www.gutenberg.org/2009/agents/47784
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mullois, M. L'Abbé Isidore
     gutenberg_agent_id: '47783'
     url: http://www.gutenberg.org/2009/agents/47783
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54246#The-Clergy-And-The-Pulpit-In-Their-Relations-To-The-People
 gutenberg_issued: '2017-02-26'
 gutenberg_type: Text
 identifiers:
